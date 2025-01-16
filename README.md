@@ -17,11 +17,10 @@ A simple web application for learning and practicing new words. This project all
 - **Local Storage:** To save and retrieve user data.
 
 ## Project Structure
-
-word-trainer/
-/index.html # Main HTML file
-/style.css # CSS for styling the app
-/script.js # JavaScript for app logic
+word-trainer
+index.html # Main HTML file
+style.css # CSS for styling the app
+script.js # JavaScript for app logic
 
 ## Getting Started
 
