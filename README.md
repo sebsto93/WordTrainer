@@ -58,9 +58,9 @@ Practice Words:
 
 Project Structure
 word-trainer/
-├── index.html       # Main HTML file
-├── style.css        # CSS for styling the app
-├── script.js        # JavaScript for app logic
+├── index.html   # Main HTML file
+├── style.css    # CSS for styling the app
+├── script.js    # JavaScript for app logic
 
 Future Enhancements:
 - Add the ability to edit or delete words.
