@@ -40,44 +40,43 @@ Follow these steps to get the application running locally:
 
 
 How to Use
+
 Add Words:
+1) Go to the "Add a New Word" section.
+2) Enter a word and its translation in the input fields.
+3) Click the "Add Word" button to save the word.
 
-Go to the "Add a New Word" section.
-Enter a word and its translation in the input fields.
-Click the "Add Word" button to save the word.
+   
 View Words:
-
 All added words will appear in the "Your Words" section.
-Practice Words:
 
-In the "Quiz Mode" section, a word will appear.
-Type the translation in the input field and click "Submit."
-The app will tell you if your answer is correct or incorrect.
-A new word will appear for the next question.
+Practice Words:
+- In the "Quiz Mode" section, a word will appear.
+- Type the translation in the input field and click "Submit."
+- The app will tell you if your answer is correct or incorrect.
+- A new word will appear for the next question.
+
 Project Structure
-graphql
-Kopiuj
-Edytuj
 word-trainer/
 ├── index.html       # Main HTML file
 ├── style.css        # CSS for styling the app
 ├── script.js        # JavaScript for app logic
-Future Enhancements
-Add the ability to edit or delete words.
-Include multiple languages for translation.
-Implement a scoring system and leaderboard.
-Add user authentication to save progress across devices.
-Demo
-Live Demo Link
+
+Future Enhancements:
+- Add the ability to edit or delete words.
+- Include multiple languages for translation.
+- Implement a scoring system and leaderboard.
+- Add user authentication to save progress across devices.
 
 Contributing
 Contributions are welcome! If you'd like to improve this project:
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/new-feature).
+3. Commit your changes (git commit -m 'Add some feature').
+4. Push to the branch (git push origin feature/new-feature).
+5. Open a Pull Request.
 
-Fork the repository.
-Create a new branch (git checkout -b feature/new-feature).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/new-feature).
-Open a Pull Request.
+
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
