@@ -16,6 +16,15 @@ A simple web application for learning and practicing new words. This project all
 - **JavaScript:** For the application logic and interactions.
 - **Local Storage:** To save and retrieve user data.
 
+Project Structure
+graphql
+Kopiuj
+Edytuj
+word-trainer/
+├── index.html       # Main HTML file
+├── style.css        # CSS for styling the app
+├── script.js        # JavaScript for app logic
+
 ## Getting Started
 
 Follow these steps to get the application running locally:
@@ -55,12 +64,6 @@ Practice Words:
 - Type the translation in the input field and click "Submit."
 - The app will tell you if your answer is correct or incorrect.
 - A new word will appear for the next question.
-
-Project Structure
-word-trainer/
-index.html   # Main HTML file
-style.css    # CSS for styling the app
-script.js    # JavaScript for app logic
 
 Future Enhancements:
 - Add the ability to edit or delete words.
